@@ -1,3 +1,12 @@
+# スライド集
+
+- [sample](https://tkoyama1988.github.io/slide/index.html?slide=example/slide1.md)
+
+- [megurorb#22 20181220](https://tkoyama1988.github.io/slide/index.html?slide=megurorb/20181220.md)
+
+
+## 以下、ForkしたREADME
+
 # SlideWithGitHubPages
 Markdownでスライド書いて、自分のGitHubで管理して、自分のGitHub Pagesで表示します。
 
