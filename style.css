@@ -1,0 +1,6 @@
+code {
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-all;
+}
