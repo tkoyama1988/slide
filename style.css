@@ -20,3 +20,7 @@ h3 {
 .reveal iframe, .reveal img, .reveal video {
     max-width: 80%;
 }
+
+.reveal ul {
+    width: 100%;
+}
