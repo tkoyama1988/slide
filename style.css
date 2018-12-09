@@ -5,6 +5,10 @@ code {
     word-break: break-all;
 }
 
+h2 {
+    font-size: 1.5em;
+}
+
 h3 {
     float: left;
 }
