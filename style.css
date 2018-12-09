@@ -12,3 +12,11 @@ code {
 h3 {
     float: left;
 }
+
+.reveal section img {
+    border: none;
+}
+
+.reveal iframe, .reveal img, .reveal video {
+    max-width: 80%;
+}
