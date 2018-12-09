@@ -10,7 +10,7 @@ code {
 }
 
 h3 {
-    float: left;
+    text-align: left;
 }
 
 .reveal section img {
